@@ -1,0 +1,2 @@
+include ':app', ':module_lib_one', ':module_lib_two', ':module_lib_common_one'
+rootProject.name='androidxDemo'
