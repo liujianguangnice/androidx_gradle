@@ -6,7 +6,7 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
-<!--    usesCleartextTraffic = true  可以使用明文http链接-->
+<!--    usesCleartextTraffic = true  使得9.0以下版本可以使用明文http链接-->
     <application
         android:usesCleartextTraffic="true"
         android:allowBackup="true"
